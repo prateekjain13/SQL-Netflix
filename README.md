@@ -1,5 +1,5 @@
 # <p align="center">Netflix Shows and Movies </p>
-# <p align="center">![Pic](https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_scale.size_760x427.v1582751026.png)</p>
+# <p align="center">![Pic](https://souranshi.in/wp-content/uploads/2023/11/Best-movies-on-netflix-right-now.jpeg)</p>
 
 **Tools Used:** Excel, MySQL, Tableau
 
